@@ -25,7 +25,7 @@ function UserData() {
           <p><strong>Email:</strong> {user.email}</p>
           <p><strong>City:</strong> {user.address.city}</p>
         </div>
-      )}
+      )};
     </div>
   );
 };
