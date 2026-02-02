@@ -1,3 +1,4 @@
+
 ## Overview
 This project was built with React + Vite to practice 'useState' and 'useEffect'.
 
@@ -12,6 +13,9 @@ This project was built with React + Vite to practice 'useState' and 'useEffect'.
 
 
 ###Setup
+
 bash
+
 npm create vite@latest
+
 npm run dev
